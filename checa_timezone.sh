@@ -13,7 +13,7 @@
 #- lista de servidores para checagem 			#
 #							#		
 #  							#	
-# Rafael Araujo 					#
+# Rafael Monteiro 					#
 # 							#
 # Ultima atualizacao: Out/2018 				#
 #########################################################
